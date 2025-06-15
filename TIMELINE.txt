@@ -1,0 +1,7 @@
+INSTALL ALL DEPENDENCIES
+
+1.UI LIBRARIES - GLUESTACK UI
+npm i @gluestack-ui/nativewind-utils @gluestack-ui/overlay @gluestack-ui/toast react-native-svg
+npx gluestack-ui init
+
+2.
